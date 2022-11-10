@@ -80,3 +80,19 @@ archer_2 = Archer("Sam", 21)
 archer_2.update_weight(80)
 archer_2.update_accuracy(40)
 print(archer_2.description_character())
+
+
+class Wizzard(Character):
+    def __init__(self, name, age):
+        super().__init__(name, age)
+        self.mana = 150
+
+
+    def description_character(self):
+        description = f"The name of new hero is {self.name} his age is {self.age} his weight is {self.weight} " \
+                      f"He doesn't have accuracy but he has mana {self.mana}"
+        return description
+
+
+wizzard = Wizzard("Hell", 32)
+print(wizzard.description_character())
