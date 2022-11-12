@@ -20,4 +20,3 @@ button_login.click()
 # driver.close()
 
 # driver = webdriver.Safari()
-# driver.get('https://www.browserstack.com/automate')
