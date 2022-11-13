@@ -697,3 +697,803 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 1668274702853	Marionette	INFO	Stopped listening on port 60996
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofiled5Ijiq/protections.sqlite
+1668356770798	geckodriver	INFO	Listening on 127.0.0.1:54967
+1668356771295	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54968" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilen8TbM3"
+1668356771844	Marionette	INFO	Marionette enabled
+1668356771866	Marionette	INFO	Listening on port 54974
+Read port: 54974
+WebDriver BiDi listening on ws://127.0.0.1:54968
+1668356772000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilen8TbM3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54968/devtools/browser/43179f52-7fd7-4b52-9db2-468d79134fb6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668356786700	geckodriver	INFO	Listening on 127.0.0.1:55053
+1668356786704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55054" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileZhYgTK"
+1668356787021	Marionette	INFO	Marionette enabled
+1668356787048	Marionette	INFO	Listening on port 55059
+Read port: 55059
+WebDriver BiDi listening on ws://127.0.0.1:55054
+1668356787170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileZhYgTK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55054/devtools/browser/587d54d8-8c06-4da0-a569-a821fa621598
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668356814215	geckodriver	INFO	Listening on 127.0.0.1:55245
+1668356814725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55246" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileuFABxH"
+1668356815044	Marionette	INFO	Marionette enabled
+1668356815067	Marionette	INFO	Listening on port 55258
+Read port: 55258
+WebDriver BiDi listening on ws://127.0.0.1:55246
+1668356815184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileuFABxH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55246/devtools/browser/e9e6abbd-61b9-4ebe-91e0-0132424fb538
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668356862927	Marionette	INFO	Stopped listening on port 55059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668356865375	Marionette	INFO	Stopped listening on port 55258
+1668356867718	geckodriver	INFO	Listening on 127.0.0.1:55401
+1668356868227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55402" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile8s7p4g"
+1668356868557	Marionette	INFO	Marionette enabled
+1668356868583	Marionette	INFO	Listening on port 55419
+Read port: 55419
+WebDriver BiDi listening on ws://127.0.0.1:55402
+1668356868697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile8s7p4g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55402/devtools/browser/8a0a7645-0c9d-44d7-842e-3fb7a38913c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668357115367	geckodriver	INFO	Listening on 127.0.0.1:56112
+1668357115878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56113" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileJwamxi"
+1668357116235	Marionette	INFO	Marionette enabled
+1668357116367	Marionette	INFO	Listening on port 56120
+Read port: 56120
+WebDriver BiDi listening on ws://127.0.0.1:56113
+1668357116435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileJwamxi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56113/devtools/browser/cc685997-b2d7-4aa5-9b6c-0fedd42f44dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668357122931	geckodriver	INFO	Listening on 127.0.0.1:56164
+1668357122935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56165" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileatBKcA"
+1668357123257	Marionette	INFO	Marionette enabled
+1668357123282	Marionette	INFO	Listening on port 56168
+Read port: 56168
+WebDriver BiDi listening on ws://127.0.0.1:56165
+1668357123451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileatBKcA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56165/devtools/browser/8f30d29f-c7a0-4ba7-b08d-1ee762818e31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668357873525	Marionette	INFO	Stopped listening on port 56168
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668357875709	Marionette	INFO	Stopped listening on port 56120
+1668358388045	Marionette	INFO	Stopped listening on port 55419
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668358391651	geckodriver	INFO	Listening on 127.0.0.1:58056
+1668358392168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58057" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileLehsXI"
+1668358392642	Marionette	INFO	Marionette enabled
+1668358392673	Marionette	INFO	Listening on port 58062
+Read port: 58062
+WebDriver BiDi listening on ws://127.0.0.1:58057
+1668358392824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileLehsXI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58057/devtools/browser/5c651506-9a8e-4858-a81d-85c8517f745c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358491572	geckodriver	INFO	Listening on 127.0.0.1:58167
+1668358492091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58168" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileTsUzlT"
+1668358492440	Marionette	INFO	Marionette enabled
+1668358492467	Marionette	INFO	Listening on port 58173
+Read port: 58173
+WebDriver BiDi listening on ws://127.0.0.1:58168
+1668358492577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileTsUzlT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58168/devtools/browser/516f1244-529b-4b1b-b41d-f8a3d88aaca1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358495383	Marionette	INFO	Stopped listening on port 58062
+1668358545429	geckodriver	INFO	Listening on 127.0.0.1:58273
+1668358545940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58274" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileKO5J08"
+1668358546276	Marionette	INFO	Marionette enabled
+1668358546303	Marionette	INFO	Listening on port 58279
+Read port: 58279
+WebDriver BiDi listening on ws://127.0.0.1:58274
+1668358546421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileKO5J08/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58274/devtools/browser/b385e6a9-bdd8-48b5-8eb8-caf75f52d3a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358589571	geckodriver	INFO	Listening on 127.0.0.1:58326
+1668358590078	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58327" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilehg18Hz"
+1668358590427	Marionette	INFO	Marionette enabled
+1668358590453	Marionette	INFO	Listening on port 58332
+Read port: 58332
+WebDriver BiDi listening on ws://127.0.0.1:58327
+1668358590567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilehg18Hz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58327/devtools/browser/0431d4ed-376c-4493-b321-9200c9bb3693
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358653362	geckodriver	INFO	Listening on 127.0.0.1:58385
+1668358653869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58386" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile4N6WPj"
+1668358654248	Marionette	INFO	Marionette enabled
+1668358654274	Marionette	INFO	Listening on port 58391
+Read port: 58391
+WebDriver BiDi listening on ws://127.0.0.1:58386
+1668358654450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile4N6WPj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58386/devtools/browser/4b16d985-bf6a-4d1f-90f7-7565a1b0bc5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358684272	geckodriver	INFO	Listening on 127.0.0.1:58436
+1668358684779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58437" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilexjObqu"
+1668358685142	Marionette	INFO	Marionette enabled
+1668358685165	Marionette	INFO	Listening on port 58442
+Read port: 58442
+WebDriver BiDi listening on ws://127.0.0.1:58437
+1668358685359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilexjObqu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58437/devtools/browser/36940b6e-466f-4c44-b6c4-ccac96c74de6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358741674	geckodriver	INFO	Listening on 127.0.0.1:58497
+1668358742184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58498" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileJdSLWI"
+1668358742446	Marionette	INFO	Marionette enabled
+1668358742504	Marionette	INFO	Listening on port 58503
+Read port: 58503
+WebDriver BiDi listening on ws://127.0.0.1:58498
+1668358742760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileJdSLWI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58498/devtools/browser/b0d30b81-c92f-4c27-8437-1a0ce8b1d21a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358792570	geckodriver	INFO	Listening on 127.0.0.1:58555
+1668358793076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58556" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileAjffYA"
+1668358793480	Marionette	INFO	Marionette enabled
+1668358793506	Marionette	INFO	Listening on port 58561
+Read port: 58561
+WebDriver BiDi listening on ws://127.0.0.1:58556
+1668358793720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileAjffYA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58556/devtools/browser/31ca219a-ce0d-43f1-b839-0304c6ceb99a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358849798	Marionette	INFO	Stopped listening on port 58561
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileAjffYA/protections.sqlite
+1668358852200	Marionette	INFO	Stopped listening on port 58503
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668358854899	Marionette	INFO	Stopped listening on port 58442
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1668358857848	Marionette	INFO	Stopped listening on port 58391
+1668358860892	Marionette	INFO	Stopped listening on port 58332
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilehg18Hz/protections.sqlite
+1668358863752	Marionette	INFO	Stopped listening on port 58279
+1668358866766	Marionette	INFO	Stopped listening on port 58173
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1668358871968	geckodriver	INFO	Listening on 127.0.0.1:58669
+1668358872478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58670" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilenIevTC"
+1668358872806	Marionette	INFO	Marionette enabled
+1668358872832	Marionette	INFO	Listening on port 58675
+Read port: 58675
+WebDriver BiDi listening on ws://127.0.0.1:58670
+1668358872986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilenIevTC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58670/devtools/browser/775daffc-5702-445c-83de-fc2a72a80492
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358921466	geckodriver	INFO	Listening on 127.0.0.1:58720
+1668358921469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58721" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileF8JUew"
+1668358921765	Marionette	INFO	Marionette enabled
+1668358921904	Marionette	INFO	Listening on port 58724
+WebDriver BiDi listening on ws://127.0.0.1:58721
+Read port: 58724
+1668358922062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileF8JUew/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58721/devtools/browser/b682ec18-f92d-4b83-bdc8-215c64bd027d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358958937	Marionette	INFO	Stopped listening on port 58724
+1668358962507	Marionette	INFO	Stopped listening on port 58675
+1668358965850	geckodriver	INFO	Listening on 127.0.0.1:58774
+1668358966359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58775" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileNw0tuz"
+1668358966702	Marionette	INFO	Marionette enabled
+1668358966729	Marionette	INFO	Listening on port 58780
+Read port: 58780
+WebDriver BiDi listening on ws://127.0.0.1:58775
+1668358966837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileNw0tuz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58775/devtools/browser/9c768c5f-35aa-43ea-ac28-388daf83f567
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yudzhen.by."
+1668358997254	Marionette	INFO	Stopped listening on port 58780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668359014413	geckodriver	INFO	Listening on 127.0.0.1:58882
+1668359014417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58883" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileJvIp6n"
+1668359014710	Marionette	INFO	Marionette enabled
+1668359014733	Marionette	INFO	Listening on port 58886
+WebDriver BiDi listening on ws://127.0.0.1:58883
+Read port: 58886
+1668359014900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileJvIp6n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58883/devtools/browser/676c5767-cb6b-4086-a53a-7d7b035d23b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668359025183	Marionette	INFO	Stopped listening on port 58886
+1668363434492	geckodriver	INFO	Listening on 127.0.0.1:59467
+1668363435000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59468" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilerTjJsZ"
+1668363435383	Marionette	INFO	Marionette enabled
+1668363435431	Marionette	INFO	Listening on port 59473
+Read port: 59473
+WebDriver BiDi listening on ws://127.0.0.1:59468
+1668363435587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilerTjJsZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59468/devtools/browser/6f820eda-07ed-4623-9687-f591301e9693
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668363448302	geckodriver	INFO	Listening on 127.0.0.1:59502
+1668363448819	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59503" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofiledR8siR"
+1668363449164	Marionette	INFO	Marionette enabled
+1668363449193	Marionette	INFO	Listening on port 59508
+WebDriver BiDi listening on ws://127.0.0.1:59503
+Read port: 59508
+1668363449358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofiledR8siR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59503/devtools/browser/d2a3cb5b-2aa8-4595-942b-67d8b044838b
+1668363543568	Marionette	INFO	Stopped listening on port 59508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668363594022	geckodriver	INFO	Listening on 127.0.0.1:59540
+1668363594534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59541" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileQMaJFV"
+1668363594908	Marionette	INFO	Marionette enabled
+1668363594929	Marionette	INFO	Listening on port 59546
+Read port: 59546
+WebDriver BiDi listening on ws://127.0.0.1:59541
+1668363595041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileQMaJFV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59541/devtools/browser/3f41deff-19ab-4151-b702-d67eb58d7b7c
+1668363631107	Marionette	INFO	Stopped listening on port 59546
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668363638304	Marionette	INFO	Stopped listening on port 59473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668363845582	geckodriver	INFO	Listening on 127.0.0.1:59689
+1668363846102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59690" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilemxSAuq"
+1668363846459	Marionette	INFO	Marionette enabled
+1668363846483	Marionette	INFO	Listening on port 59695
+Read port: 59695
+WebDriver BiDi listening on ws://127.0.0.1:59690
+1668363846648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilemxSAuq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59690/devtools/browser/2afd3615-bde8-4ecb-80ff-609b88b53ccf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668364366010	geckodriver	INFO	Listening on 127.0.0.1:59797
+1668364366528	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59798" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileyDDig4"
+1668364366905	Marionette	INFO	Marionette enabled
+1668364367035	Marionette	INFO	Listening on port 59803
+Read port: 59803
+WebDriver BiDi listening on ws://127.0.0.1:59798
+1668364367105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileyDDig4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59798/devtools/browser/43d35af6-fea3-44c7-ab76-4f2b55c0cdee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668364484783	Marionette	INFO	Stopped listening on port 59803
+1668364488379	geckodriver	INFO	Listening on 127.0.0.1:59839
+1668364488889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59840" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilelwC8DR"
+1668364489245	Marionette	INFO	Marionette enabled
+1668364489374	Marionette	INFO	Listening on port 59845
+Read port: 59845
+WebDriver BiDi listening on ws://127.0.0.1:59840
+1668364489434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilelwC8DR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59840/devtools/browser/19e218fb-08e0-43cf-bdd4-5fd2a519d4a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668364738829	Marionette	INFO	Stopped listening on port 59845
+1668364745966	geckodriver	INFO	Listening on 127.0.0.1:59939
+1668364746473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59940" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilebhzhlV"
+1668364746830	Marionette	INFO	Marionette enabled
+1668364746957	Marionette	INFO	Listening on port 59945
+Read port: 59945
+WebDriver BiDi listening on ws://127.0.0.1:59940
+1668364747020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilebhzhlV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59940/devtools/browser/8f2b4c7f-45d4-452b-8394-cfc0cecbd85a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668364816782	geckodriver	INFO	Listening on 127.0.0.1:59975
+1668364817292	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59976" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile40zcdk"
+1668364817661	Marionette	INFO	Marionette enabled
+1668364817793	Marionette	INFO	Listening on port 59981
+Read port: 59981
+WebDriver BiDi listening on ws://127.0.0.1:59976
+1668364817865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile40zcdk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59976/devtools/browser/f8f38da1-c586-4b55-a463-e653d8a1eda7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668364840204	Marionette	INFO	Stopped listening on port 59981
+1668364843585	Marionette	INFO	Stopped listening on port 59945
+1668364846955	Marionette	INFO	Stopped listening on port 59695
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668364850948	Marionette	INFO	Stopped listening on port 54974
+1668364947026	geckodriver	INFO	Listening on 127.0.0.1:60009
+1668364947538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60010" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileQ1PUnU"
+1668364947863	Marionette	INFO	Marionette enabled
+1668364947889	Marionette	INFO	Listening on port 60015
+Read port: 60015
+WebDriver BiDi listening on ws://127.0.0.1:60010
+1668364948046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileQ1PUnU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60010/devtools/browser/38913434-f900-4414-8a6c-f0b041736ca7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668364980950	geckodriver	INFO	Listening on 127.0.0.1:60043
+1668364980953	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60044" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileC1lEPJ"
+1668364981248	Marionette	INFO	Marionette enabled
+1668364981276	Marionette	INFO	Listening on port 60047
+WebDriver BiDi listening on ws://127.0.0.1:60044
+Read port: 60047
+1668364981415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileC1lEPJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60044/devtools/browser/41279f6b-2e75-4885-883f-61ff957c22e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668365051393	geckodriver	INFO	Listening on 127.0.0.1:60081
+1668365051912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60082" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileOfxJWA"
+1668365052263	Marionette	INFO	Marionette enabled
+1668365052294	Marionette	INFO	Listening on port 60090
+Read port: 60090
+WebDriver BiDi listening on ws://127.0.0.1:60082
+1668365052450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileOfxJWA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60082/devtools/browser/803f629a-1569-49dc-88ea-dd554fe17400
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668365092415	Marionette	INFO	Stopped listening on port 60090
+1668365094657	Marionette	INFO	Stopped listening on port 60047
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668365173339	geckodriver	INFO	Listening on 127.0.0.1:60124
+1668365173850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60125" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileyhXoSE"
+1668365174215	Marionette	INFO	Marionette enabled
+1668365174241	Marionette	INFO	Listening on port 60130
+Read port: 60130
+WebDriver BiDi listening on ws://127.0.0.1:60125
+1668365174343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileyhXoSE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60125/devtools/browser/9f4c2bd5-e0b0-47af-a493-23cc116d9d75
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668365256684	geckodriver	INFO	Listening on 127.0.0.1:60162
+1668365257203	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60163" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilewB8SEw"
+1668365257553	Marionette	INFO	Marionette enabled
+1668365257580	Marionette	INFO	Listening on port 60168
+Read port: 60168
+WebDriver BiDi listening on ws://127.0.0.1:60163
+1668365257735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilewB8SEw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60163/devtools/browser/ead59fd1-0887-4d8b-9ed5-ea6be6a2b893
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668365639952	geckodriver	INFO	Listening on 127.0.0.1:60448
+1668365640460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60449" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileZ8MVVy"
+1668365640833	Marionette	INFO	Marionette enabled
+1668365640959	Marionette	INFO	Listening on port 60454
+Read port: 60454
+WebDriver BiDi listening on ws://127.0.0.1:60449
+1668365641032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileZ8MVVy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60449/devtools/browser/07e32ab2-5037-4e46-a33a-87f4c1b144d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668365971784	geckodriver	INFO	Listening on 127.0.0.1:60501
+1668365972297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60502" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile1I5KlB"
+1668365972676	Marionette	INFO	Marionette enabled
+1668365972804	Marionette	INFO	Listening on port 60507
+Read port: 60507
+WebDriver BiDi listening on ws://127.0.0.1:60502
+1668365972871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile1I5KlB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60502/devtools/browser/6e4e383f-0dc5-491b-ab6f-a9f967a11474
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668365990052	geckodriver	INFO	Listening on 127.0.0.1:60535
+1668365990560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60536" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileFAsyBn"
+1668365990900	Marionette	INFO	Marionette enabled
+1668365990926	Marionette	INFO	Listening on port 60541
+Read port: 60541
+WebDriver BiDi listening on ws://127.0.0.1:60536
+1668365991088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileFAsyBn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60536/devtools/browser/b42d07e6-7f15-4e8a-bf6d-e2bf63a43f38
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366009633	Marionette	INFO	Stopped listening on port 60541
+1668366012106	Marionette	INFO	Stopped listening on port 60507
+1668366014389	Marionette	INFO	Stopped listening on port 60454
+1668366018358	Marionette	INFO	Stopped listening on port 60168
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366020572	Marionette	INFO	Stopped listening on port 60130
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366023998	geckodriver	INFO	Listening on 127.0.0.1:60623
+1668366024514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60624" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilewAXIKx"
+1668366024852	Marionette	INFO	Marionette enabled
+1668366024880	Marionette	INFO	Listening on port 60629
+Read port: 60629
+WebDriver BiDi listening on ws://127.0.0.1:60624
+1668366025047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilewAXIKx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60624/devtools/browser/cea1df44-64e3-4a53-ad03-b6c4fed407b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366036189	Marionette	INFO	Stopped listening on port 60629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668366060898	geckodriver	INFO	Listening on 127.0.0.1:60715
+1668366060902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60716" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilelcVzgo"
+1668366061192	Marionette	INFO	Marionette enabled
+1668366061216	Marionette	INFO	Listening on port 60719
+WebDriver BiDi listening on ws://127.0.0.1:60716
+Read port: 60719
+1668366061373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilelcVzgo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60716/devtools/browser/ed02302b-5cff-4e97-9c06-d4aac67950f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366079648	geckodriver	INFO	Listening on 127.0.0.1:60748
+1668366080155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60749" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile65y4VM"
+1668366080488	Marionette	INFO	Marionette enabled
+1668366080516	Marionette	INFO	Listening on port 60754
+WebDriver BiDi listening on ws://127.0.0.1:60749
+Read port: 60754
+1668366080682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile65y4VM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60749/devtools/browser/04554e7d-f1ab-424c-ace7-e9823124d280
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366125577	geckodriver	INFO	Listening on 127.0.0.1:60784
+1668366126088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60785" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileuUqXtz"
+1668366126436	Marionette	INFO	Marionette enabled
+1668366126462	Marionette	INFO	Listening on port 60790
+Read port: 60790
+WebDriver BiDi listening on ws://127.0.0.1:60785
+1668366126579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileuUqXtz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60785/devtools/browser/9d09bafe-a93c-48ba-86ef-b115d5c0eaaf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366138482	geckodriver	INFO	Listening on 127.0.0.1:60818
+1668366138486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60819" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileatouvx"
+1668366138814	Marionette	INFO	Marionette enabled
+1668366138837	Marionette	INFO	Listening on port 60822
+Read port: 60822
+WebDriver BiDi listening on ws://127.0.0.1:60819
+1668366139004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileatouvx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60819/devtools/browser/fab15c3e-3605-4005-aad4-3567b2a57550
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366208376	geckodriver	INFO	Listening on 127.0.0.1:60858
+1668366208882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60859" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile6VT8SQ"
+1668366209251	Marionette	INFO	Marionette enabled
+1668366209380	Marionette	INFO	Listening on port 60864
+Read port: 60864
+WebDriver BiDi listening on ws://127.0.0.1:60859
+1668366209450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile6VT8SQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60859/devtools/browser/d8850de8-bdba-41c6-9eaf-7ba23725d3ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366316575	Marionette	INFO	Stopped listening on port 60864
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366320569	Marionette	INFO	Stopped listening on port 60822
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366323122	Marionette	INFO	Stopped listening on port 60790
+1668366325827	Marionette	INFO	Stopped listening on port 60754
+1668366329796	geckodriver	INFO	Listening on 127.0.0.1:60896
+1668366330305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60897" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileHB7eig"
+1668366330667	Marionette	INFO	Marionette enabled
+1668366330794	Marionette	INFO	Listening on port 60902
+Read port: 60902
+WebDriver BiDi listening on ws://127.0.0.1:60897
+1668366330861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileHB7eig/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60897/devtools/browser/22a5d6a8-fc42-4ef3-a7e0-62cc026d8ba6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366341192	geckodriver	INFO	Listening on 127.0.0.1:60931
+1668366341197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60932" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileEHnwue"
+1668366341530	Marionette	INFO	Marionette enabled
+1668366341546	Marionette	INFO	Listening on port 60935
+Read port: 60935
+WebDriver BiDi listening on ws://127.0.0.1:60932
+1668366341721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileEHnwue/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60932/devtools/browser/d6ba1624-6597-4bbb-aef6-45f6a0d73d75
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366344120	Marionette	INFO	Stopped listening on port 60902
+1668366381790	geckodriver	INFO	Listening on 127.0.0.1:60965
+1668366382307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60966" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileZq8n5d"
+1668366382672	Marionette	INFO	Marionette enabled
+1668366382801	Marionette	INFO	Listening on port 60971
+Read port: 60971
+WebDriver BiDi listening on ws://127.0.0.1:60966
+1668366382872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileZq8n5d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60966/devtools/browser/b68559ae-8104-47ec-89ab-35aa856ce857
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366394272	geckodriver	INFO	Listening on 127.0.0.1:61002
+1668366394790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61003" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilevdA88B"
+1668366395136	Marionette	INFO	Marionette enabled
+1668366395157	Marionette	INFO	Listening on port 61008
+Read port: 61008
+WebDriver BiDi listening on ws://127.0.0.1:61003
+1668366395279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilevdA88B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61003/devtools/browser/fd3c5540-3ae7-479b-b1a5-c4d9b4732b9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366406941	Marionette	INFO	Stopped listening on port 61008
+1668366409120	Marionette	INFO	Stopped listening on port 60971
+1668366419634	geckodriver	INFO	Listening on 127.0.0.1:61038
+1668366419638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61039" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileTzAEyp"
+1668366419974	Marionette	INFO	Marionette enabled
+1668366419997	Marionette	INFO	Listening on port 61042
+Read port: 61042
+WebDriver BiDi listening on ws://127.0.0.1:61039
+1668366420131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileTzAEyp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61039/devtools/browser/4e24b7f3-b364-4cf1-9d91-3e6012db0f2f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366519760	geckodriver	INFO	Listening on 127.0.0.1:61087
+1668366520277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61088" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilexz6vzz"
+1668366520642	Marionette	INFO	Marionette enabled
+1668366520668	Marionette	INFO	Listening on port 61093
+Read port: 61093
+WebDriver BiDi listening on ws://127.0.0.1:61088
+1668366520777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilexz6vzz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61088/devtools/browser/0bd2c2a1-d9a8-46d8-a943-40778180d33b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366544688	Marionette	INFO	Stopped listening on port 61093
+1668366546608	Marionette	INFO	Stopped listening on port 61042
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366551334	Marionette	INFO	Stopped listening on port 60935
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366553580	Marionette	INFO	Stopped listening on port 60719
+1668366555877	geckodriver	INFO	Listening on 127.0.0.1:61121
+1668366556386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61122" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile7HgP0A"
+1668366556717	Marionette	INFO	Marionette enabled
+1668366556741	Marionette	INFO	Listening on port 61127
+Read port: 61127
+WebDriver BiDi listening on ws://127.0.0.1:61122
+1668366556909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile7HgP0A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61122/devtools/browser/f11346a8-1833-4da1-bcb7-093dfbec2c88
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366608790	geckodriver	INFO	Listening on 127.0.0.1:61157
+1668366609301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61158" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile76fPll"
+1668366609667	Marionette	INFO	Marionette enabled
+1668366609794	Marionette	INFO	Listening on port 61163
+Read port: 61163
+WebDriver BiDi listening on ws://127.0.0.1:61158
+1668366609859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile76fPll/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61158/devtools/browser/582527a3-b756-4426-867f-741d4deffb71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366634552	Marionette	INFO	Stopped listening on port 61163
+1668366636571	geckodriver	INFO	Listening on 127.0.0.1:61193
+1668366637080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61194" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileaOPPOD"
+1668366637412	Marionette	INFO	Marionette enabled
+1668366637437	Marionette	INFO	Listening on port 61199
+Read port: 61199
+WebDriver BiDi listening on ws://127.0.0.1:61194
+1668366637600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileaOPPOD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61194/devtools/browser/582d4757-8472-42ef-a2f9-8d85d3153d0c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366684745	geckodriver	INFO	Listening on 127.0.0.1:61284
+1668366685253	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61285" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilehjGKpQ"
+1668366685622	Marionette	INFO	Marionette enabled
+1668366685649	Marionette	INFO	Listening on port 61290
+Read port: 61290
+WebDriver BiDi listening on ws://127.0.0.1:61285
+1668366685765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilehjGKpQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61285/devtools/browser/b58a73a1-a78a-4eed-a778-51fdc6bdd641
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366697454	geckodriver	INFO	Listening on 127.0.0.1:61318
+1668366697457	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61319" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileu7KTmc"
+1668366697795	Marionette	INFO	Marionette enabled
+1668366697816	Marionette	INFO	Listening on port 61322
+Read port: 61322
+WebDriver BiDi listening on ws://127.0.0.1:61319
+1668366697939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileu7KTmc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61319/devtools/browser/ee4131e9-bc72-46f1-ba57-97206a2eac75
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366747727	geckodriver	INFO	Listening on 127.0.0.1:61411
+1668366748242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61412" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileynz6S6"
+1668366748617	Marionette	INFO	Marionette enabled
+1668366748744	Marionette	INFO	Listening on port 61417
+Read port: 61417
+WebDriver BiDi listening on ws://127.0.0.1:61412
+1668366748814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileynz6S6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61412/devtools/browser/888e6e36-c824-41b0-a2a7-f9c9d4468ec1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366758142	Marionette	INFO	Stopped listening on port 61417
+1668366761003	Marionette	INFO	Stopped listening on port 61322
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366763712	Marionette	INFO	Stopped listening on port 61290
+1668366767069	Marionette	INFO	Stopped listening on port 61199
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668366888045	geckodriver	INFO	Listening on 127.0.0.1:61449
+1668366888556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61450" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile04orPo"
+1668366888899	Marionette	INFO	Marionette enabled
+1668366888929	Marionette	INFO	Listening on port 61455
+Read port: 61455
+WebDriver BiDi listening on ws://127.0.0.1:61450
+1668366889097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile04orPo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61450/devtools/browser/84f2023d-576e-4d0d-9805-9314bb37ed2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366903486	geckodriver	INFO	Listening on 127.0.0.1:61483
+1668366903994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61484" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileHeXdFC"
+1668366904331	Marionette	INFO	Marionette enabled
+1668366904355	Marionette	INFO	Listening on port 61489
+Read port: 61489
+WebDriver BiDi listening on ws://127.0.0.1:61484
+1668366904521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileHeXdFC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61484/devtools/browser/c3044c53-038b-41d2-83af-cf3ea7ea5d17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366920174	geckodriver	INFO	Listening on 127.0.0.1:61517
+1668366920691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61518" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilelDKcZL"
+1668366921025	Marionette	INFO	Marionette enabled
+1668366921051	Marionette	INFO	Listening on port 61523
+Read port: 61523
+WebDriver BiDi listening on ws://127.0.0.1:61518
+1668366921212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilelDKcZL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61518/devtools/browser/46c1d5cf-cbbb-4254-8d9c-58192c6fa247
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668366940785	Marionette	INFO	Stopped listening on port 61523
+1668366943173	Marionette	INFO	Stopped listening on port 61489
+1668367955773	geckodriver	INFO	Listening on 127.0.0.1:61801
+1668367956285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61802" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofiletNouVJ"
+1668367956657	Marionette	INFO	Marionette enabled
+1668367956684	Marionette	INFO	Listening on port 61807
+Read port: 61807
+WebDriver BiDi listening on ws://127.0.0.1:61802
+1668367956790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofiletNouVJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61802/devtools/browser/6c1bc064-be67-4c45-b8f7-892c7d87d2a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668367985171	geckodriver	INFO	Listening on 127.0.0.1:61835
+1668367985687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61836" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileS4br9V"
+1668367986033	Marionette	INFO	Marionette enabled
+1668367986059	Marionette	INFO	Listening on port 61841
+Read port: 61841
+WebDriver BiDi listening on ws://127.0.0.1:61836
+1668367986166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileS4br9V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61836/devtools/browser/c386cae7-d763-4ceb-b564-fe7b77de1108
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668368005897	Marionette	INFO	Stopped listening on port 61841
+1668368008753	Marionette	INFO	Stopped listening on port 61807
+1668368013192	Marionette	INFO	Stopped listening on port 61455
+1668368237409	geckodriver	INFO	Listening on 127.0.0.1:61869
+1668368237922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61870" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilegi4aOa"
+1668368238263	Marionette	INFO	Marionette enabled
+1668368238287	Marionette	INFO	Listening on port 61875
+WebDriver BiDi listening on ws://127.0.0.1:61870
+Read port: 61875
+1668368238447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilegi4aOa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61870/devtools/browser/706edf48-cc00-480d-962f-3e16508b0073
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668368249899	geckodriver	INFO	Listening on 127.0.0.1:61903
+1668368249902	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61904" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileGFRRET"
+1668368250242	Marionette	INFO	Marionette enabled
+1668368250269	Marionette	INFO	Listening on port 61907
+Read port: 61907
+WebDriver BiDi listening on ws://127.0.0.1:61904
+1668368250431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofileGFRRET/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61904/devtools/browser/2f87b6c6-bba4-48e9-a9e9-7bdf928e4755
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668368411738	geckodriver	INFO	Listening on 127.0.0.1:61939
+1668368412247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61940" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilePDjB1H"
+1668368412627	Marionette	INFO	Marionette enabled
+1668368412758	Marionette	INFO	Listening on port 61945
+Read port: 61945
+WebDriver BiDi listening on ws://127.0.0.1:61940
+1668368412821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofilePDjB1H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61940/devtools/browser/cb78edc0-0c69-4ca5-9ab8-a757918691d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668368450271	geckodriver	INFO	Listening on 127.0.0.1:61973
+1668368450780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61974" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile3gjyzy"
+1668368451149	Marionette	INFO	Marionette enabled
+1668368451176	Marionette	INFO	Listening on port 61979
+Read port: 61979
+WebDriver BiDi listening on ws://127.0.0.1:61974
+1668368451291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/kd/j418qg4d7275zm81ym2_vkt40000gn/T/rust_mozprofile3gjyzy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61974/devtools/browser/f2255588-e7a4-4b61-bda9-cc96a3923b5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1668368459242	Marionette	INFO	Stopped listening on port 61979
+1668368461645	Marionette	INFO	Stopped listening on port 61945
+1668368464937	Marionette	INFO	Stopped listening on port 61907
+1668368467615	Marionette	INFO	Stopped listening on port 61875
+1668368472009	Marionette	INFO	Stopped listening on port 61127
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'

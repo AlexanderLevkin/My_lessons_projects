@@ -28,3 +28,7 @@ message_field.send_keys("This is the test message, don't answer on it")
 
 click_on_the_sent_button = driver.find_element(By.CSS_SELECTOR, 'div.popap-submit:nth-child(7) > button:nth-child(1)')
 click_on_the_sent_button.click()
+
+warning_test = driver.find_element(By.CSS_SELECTOR, 'div.wpcf7-response-output:nth-child(8)')
+value_warning_test = warning_test.text
+
