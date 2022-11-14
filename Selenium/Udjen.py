@@ -1,3 +1,6 @@
+import datetime
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -32,3 +35,8 @@ click_on_the_sent_button.click()
 warning_test = driver.find_element(By.CSS_SELECTOR, 'div.wpcf7-response-output:nth-child(8)')
 value_warning_test = warning_test.text
 
+
+now_date = datetime.datetime.utcnow().strftime("%Y.%m.%d.%H.%M.%S")
+name_screenshot = "screenshot_" + now_date + ".png"
+time.sleep(2)
+driver.save_screenshot('./Screenshots/' + name_screenshot)
