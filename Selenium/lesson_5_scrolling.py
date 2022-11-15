@@ -7,7 +7,9 @@ import datetime
 
 driver = webdriver.Chrome(executable_path='//Users/alexanderlevkin/Desktop/My_projects/'
                                           'My_lessons_projects/Selenium/chromedriver')
+# driver = webdriver.Safari()
 base_url = 'https://www.saucedemo.com'
+
 driver.get(base_url)
 driver.maximize_window()
 
@@ -38,4 +40,3 @@ now_date = datetime.datetime.utcnow().strftime("%Y.%m.%d.%H.%M.%S")
 name_screenshot = 'screenshot ' + now_date + '.png'
 driver.save_screenshot('./Screenshots/' + name_screenshot)
 
-time.sleep(10)
