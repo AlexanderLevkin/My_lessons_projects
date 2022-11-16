@@ -77,7 +77,7 @@ cart_red_kids_tshirt_cost = driver.find_element(By.XPATH, '//*[@id="cart_content
                                                           '/div/div[1]/div[3]/div[2]/div[2]/div')
 cart_red_kids_tshirt_cost = cart_red_kids_tshirt_cost.text
 assert cart_red_kids_tshirt_cost == red_kids_tshirt_cost
-print("Cost of kids t-shirt match with cart")
+print("Cost of kids t-shirt match with cart\n")
 # Click on checkout button
 
 checkout_button = driver.find_element(By.XPATH, '//button[@id="checkout"]')
@@ -101,7 +101,7 @@ cost_good_2 = red_kids_tshirt_cost
 good_1 = float(cost_good_1.replace('$', " "))
 good_2 = float(cost_good_2.replace('$', " "))
 cart_sum = good_1 + good_2
-print(f"The total cost is: {cart_sum} $")
+print(f"The total cost is: {cart_sum} $\n")
 
 # Comparing the sums
 items_total = driver.find_element(By.XPATH, '//*[@id="checkout_summary_container"]/div/div[2]/div[5]')
@@ -109,4 +109,4 @@ items_total = items_total.text
 items_sum = float(items_total.replace("Item total: $", " "))
 
 assert items_sum == cart_sum
-print("The sum from cart corresponds total sum!!!")
+print(f"The sum from cart: {cart_sum} $ corresponds total sum: {items_sum} $!!!")
