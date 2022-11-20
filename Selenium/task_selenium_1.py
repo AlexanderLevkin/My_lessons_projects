@@ -1,10 +1,8 @@
-import datetime
-from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-
-driver = webdriver.Chrome(executable_path='//Users/alexanderlevkin/Desktop/My_projects/'
-                                          'My_lessons_projects/Selenium/chromedriver')
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver import Chrome, Firefox, Remote
+driver = Chrome(executable_path=ChromeDriverManager().install())
 base_url = 'https://www.saucedemo.com'
 driver.get(base_url)
 driver.maximize_window()
@@ -96,10 +94,8 @@ continue_button.click()
 time.sleep(1)
 
 # Calculate the total sum of goods from cart
-cost_good_1 = red_adult_tshirt_cost
-cost_good_2 = red_kids_tshirt_cost
-good_1 = float(cost_good_1.replace('$', " "))
-good_2 = float(cost_good_2.replace('$', " "))
+good_1 = float(red_adult_tshirt_cost.replace('$', " "))
+good_2 = float(red_kids_tshirt_cost.replace('$', " "))
 cart_sum = good_1 + good_2
 print(f"The total cost is: {cart_sum} $\n")
 

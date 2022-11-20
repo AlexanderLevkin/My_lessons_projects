@@ -3,8 +3,12 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 
-driver = webdriver.Chrome(executable_path='//Users/alexanderlevkin/Desktop/My_projects/'
-                                          'My_lessons_projects/Selenium/chromedriver')
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver import Chrome, Firefox, Remote
+from selenium.webdriver.chrome.options import Options
+
+driver = Chrome(executable_path=ChromeDriverManager().install())
+
 base_url = 'https://www.saucedemo.com'
 driver.get(base_url)
 driver.maximize_window()
