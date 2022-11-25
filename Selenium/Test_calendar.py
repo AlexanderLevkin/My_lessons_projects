@@ -1,15 +1,26 @@
 import time
 import datetime
+from datetime import date
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver import Chrome, Firefox, Remote, ActionChains, Keys
-
 driver = Chrome(executable_path=ChromeDriverManager().install())
 
-base_url = 'https://demoqa.com/date-picker'
-driver.get(base_url)
-driver.maximize_window()
+now_date = datetime.datetime.now()
+time_delta = datetime.timedelta(days=10)
+new_date = now_date + time_delta
+new_new_date = new_date.month, new_date.day, new_date.year
+print(new_new_date)
 
+# n = str(new_new_date)
+# x = str(n.split(" "))
+# y = x[2:12]
+# z = str(y)
+# z.replace("-", "/")
+# print(z)
+# base_url = 'https://demoqa.com/date-picker'
+# driver.get(base_url)
+# driver.maximize_window()
 # new_date = driver.find_element(By.XPATH, '//input[@id="datePickerMonthYearInput"]')
 # new_date.send_keys(Keys.BACKSPACE)
 # new_date.send_keys(Keys.BACKSPACE)
@@ -22,17 +33,8 @@ driver.maximize_window()
 # new_date.send_keys(Keys.BACKSPACE)
 # new_date.send_keys(Keys.BACKSPACE)
 # new_date.send_keys(Keys.BACKSPACE)
-# time.sleep(3)
-new_date = driver.find_element(By.XPATH, '//input[@id="datePickerMonthYearInput"]')
-new_date.click()
-time.sleep(3)
-now_date = datetime.datetime.utcnow().strftime("%d")
-print(now_date)
-date = int(now_date) + 1
-locator = "//div[@aria-label='Choose Thursday," + str(date) + "th, 2022']"
-# aria-label="Choose Wednesday, November 23rd, 2022"
-print(locator)
-# new_date_17 = driver.find_element(By.XPATH, locator)
-# new_date_17.click()
+# new_date.click()
+# new_date.clear()
+# new_date.send_keys(z)
 # time.sleep(3)
 

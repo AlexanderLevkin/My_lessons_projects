@@ -106,3 +106,4 @@ items_sum = float(items_total.replace("Item total: $", " "))
 
 assert items_sum == cart_sum
 print(f"The sum from cart: {cart_sum} $ corresponds total sum: {items_sum} $!!!")
+
