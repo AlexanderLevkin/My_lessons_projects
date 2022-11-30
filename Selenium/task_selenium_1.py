@@ -2,11 +2,11 @@ import time
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver import Chrome, Firefox, Remote
+
 driver = Chrome(executable_path=ChromeDriverManager().install())
 base_url = 'https://www.saucedemo.com'
 driver.get(base_url)
 driver.maximize_window()
-
 password = "secret_sauce"
 login = "standard_user"
 # Authorization on site
@@ -106,4 +106,4 @@ items_sum = float(items_total.replace("Item total: $", " "))
 
 assert items_sum == cart_sum
 print(f"The sum from cart: {cart_sum} $ corresponds total sum: {items_sum} $!!!")
-
+time.sleep(5)
