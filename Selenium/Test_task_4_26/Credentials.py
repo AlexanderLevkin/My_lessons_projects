@@ -1,33 +1,21 @@
-import time
+"""ITEM1"""
+#Selecting
+item_1 = '//button[@id="add-to-cart-sauce-labs-onesie"]'
+item_name_1 = '//*[@id="item_2_title_link"]/div'
+item_cost_1 = "/html/body/div/div/div/div[2]/div/div/div/div[5]/div[2]/div[2]/div"
+item_sum_1 = "//div[@class='inventory_item_price']"
+#Asserts
+cart_name_1 ='//*[@id="item_2_title_link"]/div'
+cart_cost_1 ='//*[@id="cart_contents_container"]/div/div[1]/div[3]/div[2]/div[2]/div'
+total_sum_1 ="//div[@class='summary_subtotal_label']"
 
-from selenium.webdriver.common.by import By
-
-
-class Main():
-    def __init__(self, driver):
-        self.driver = driver
-
-    def login(self, login, password):
-        username_field = self.driver.find_element(By.XPATH, '//input[@id="user-name"]')
-        username_field.send_keys(login)
-        password_field = self.driver.find_element(By.XPATH, '//input[@id="password"]')
-        password_field.send_keys(password)
-        time.sleep(1)
-        login_button = self.driver.find_element(By.XPATH, '//input[@id="login-button"]')
-        login_button.click()
-        time.sleep(1)
-        print("Login into site\n")
-
-
-"""Собираем переменные по вещам в магазине (Добавляем в корзину)"""
-# #Souce labs backpack
-#         sauce_labs_backpack = driver.find_element(By.XPATH, '//button[@id="add-to-cart-sauce-labs-backpack"]')
-# #Sauce_Labs_Bike_light
-#         sauce_labs_bike_light = driver.find_element(By.XPATH, '//button[@id="add-to-cart-sauce-labs-bike-light"]')
-# # sauce_labs_bolt_t_shirt
-#         sauce_labs_bolt_t_shirt = driver.find_element(By.XPATH, '//button[@id="add-to-cart-sauce-labs-bolt-t-shirt"]')
-# # sauce_labs_fleece_jacket
-#         sauce_labs_fleece_jacket = driver.find_element(By.XPATH, '//button[@id="add-to-cart-sauce-labs-fleece-jacket"]')
-# #sauce_labs_onesie
-#         sauce_labs_onesie = driver.find_element(By.XPATH, '//button[@id="add-to-cart-sauce-labs-onesie"]')
-#t_shirt_red
+"""ITEM2"""
+#Selecting
+item_1 = '//button[@id="add-to-cart-sauce-labs-onesie"]'
+item_name_1 = '//*[@id="item_2_title_link"]/div'
+item_cost_1 = "/html/body/div/div/div/div[2]/div/div/div/div[5]/div[2]/div[2]/div"
+item_sum_1 = "//div[@class='inventory_item_price']"
+#Asserts
+cart_name_1 ='//*[@id="item_2_title_link"]/div'
+cart_cost_1 ='//*[@id="cart_contents_container"]/div/div[1]/div[3]/div[2]/div[2]/div'
+total_sum_1 ="//div[@class='summary_subtotal_label']"
