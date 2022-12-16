@@ -27,7 +27,7 @@ class Item:
         time.sleep(1)
         print("Login into site\n")
 
-# Select the item on the main page (after login to site)
+        # Select the item on the main page (after login to site)
         item = driver.find_element(By.XPATH, self.pick_item)
         item.click()
         time.sleep(1)
@@ -36,19 +36,18 @@ class Item:
         item_name_onsite = item_name_onsite.text
         print(item_name_onsite)
 
-
         item_cost_onsite = driver.find_element(By.XPATH, item_cost_comm)
         item_cost_onsite = item_cost_onsite.text
         item_cost_onsite_final = float(item_cost_onsite.replace('$', " "))
         print(item_cost_onsite_final)
         time.sleep(1)
 
-# Transition to the cart
+        # Transition to the cart
         cart_button = driver.find_element(By.XPATH, cart_button_comm)
         cart_button.click()
         time.sleep(1)
 
-# Find the piked item in cart
+        # Find the piked item in cart
 
         cart_name_v = driver.find_element(By.XPATH, cart_name_comm)
         cart_name_v = cart_name_v.text
@@ -57,19 +56,18 @@ class Item:
         print("Name of item match with cart")
         time.sleep(1)
 
-
         cart_cost_v = driver.find_element(By.XPATH, cart_cost_comm)
         cart_cost_v = cart_cost_v.text
         cart_cost_v_final = float(cart_cost_v.replace('$', " "))
-        print(cart_cost_v_final )
+        print(cart_cost_v_final)
 
-#Click on the checkout button on the cart
+        # Click on the checkout button on the cart
 
         checkout_button = driver.find_element(By.XPATH, '//button[@id="checkout"]')
         checkout_button.click()
         print('Click on Checkout Button')
 
-#Fill in the user form (Common for ALL)
+        # Fill in the user form (Common for ALL)
 
         first_name_field = driver.find_element(By.XPATH, '//input[@id="first-name"]')
         first_name_field.send_keys("Alexander")
@@ -82,7 +80,7 @@ class Item:
         time.sleep(1)
         print('Fill in the customer information')
 
-# FIND THE ITEM SUM AND TOTAL COST ON ORDER PAGE
+        # FIND THE ITEM SUM AND TOTAL COST ON ORDER PAGE
 
         item_sum_fc = driver.find_element(By.XPATH, item_sum_comm)
         item_sum_fc = item_sum_fc.text
@@ -94,9 +92,3 @@ class Item:
         total_sum_final = float(total_sum_fc.replace("Item total: $", " "))
         assert item_sum_final == total_sum_final
         print('The sum from cart corresponds total sum !!!')
-
-
-
-
-
-
