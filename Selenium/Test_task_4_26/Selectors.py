@@ -1,4 +1,6 @@
 """COMMON"""
+password = "secret_sauce"
+login = "standard_user"
 cart_button_comm = '//span[@class="shopping_cart_badge"]'
 #Asserts
 cart_name_comm ="//div[@class='inventory_item_name']"
